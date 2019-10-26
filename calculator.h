@@ -3,13 +3,13 @@
 
 class Calculator
 {
-    public:
-<<<<<<< HEAD
-        int Add (double, double);
-        int Sub (double, double);
+    aefgadspublic:
+<<<<<<< HEADadfadf
+       dafadf int Add (double, double);
+       faddaf int Sub (double, double);
 =======
-        int Add (int, int);
-        int Mul (double, double);
+       dfadafsad int Add (int, int);
+       ffdafdsa int Mul (double, double);
 >>>>>>> e0ea21b... add a multiplication operation
 };
 
